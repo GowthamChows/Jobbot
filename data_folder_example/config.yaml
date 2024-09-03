@@ -4,16 +4,16 @@ experienceLevel:
   internship: true
   entry: true
   associate: true
-  mid-senior level: true
+  mid-senior level: false
   director: false
   executive: false
 
 jobTypes:
   full-time: true
-  contract: false
+  contract: true
   part-time: false
   temporary: true
-  internship: false
+  internship: true
   other: false
   volunteer: true
 
@@ -24,16 +24,19 @@ date:
   24 hours: true
 
 positions:
-  - Software Tester
-
+  - Software Engineer
+  - DevOps Engineer
+  - AWS DevOps Engineer
+  - Cloud Engineer
+  - SRE Engineer
 
 locations:
-  - USA
+  - Hyderabad
+  - Bengaluru
+  - Chennai
+  - Pune
 
 distance: 100
-
 companyBlacklist:
   - Noir
   - Crossover
-
-titleBlacklist:
